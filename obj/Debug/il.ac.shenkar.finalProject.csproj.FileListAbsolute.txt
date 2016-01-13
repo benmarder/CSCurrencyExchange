@@ -1,0 +1,16 @@
+C:\Users\benmarder\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\il.ac.shenkar.finalProject.csprojResolveAssemblyReference.cache
+C:\Users\benmarder\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\benmarder\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\benmarder\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\benmarder\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\il.ac.shenkar.finalProject.csproj.GenerateResource.Cache
+C:\Users\benmarder\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\CurrenceyExchange.exe.config
+C:\Users\benmarder\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\CurrenceyExchange.exe
+C:\Users\benmarder\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\CurrenceyExchange.pdb
+C:\Users\benmarder\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CurrenceyExchange_MarkupCompile.cache
+C:\Users\benmarder\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CurrenceyExchange.g.resources
+C:\Users\benmarder\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CurrenceyExchange.Properties.Resources.resources
+C:\Users\benmarder\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CurrenceyExchange.exe
+C:\Users\benmarder\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CurrenceyExchange.pdb
+C:\Users\rotem\Dropbox\c# project\WpfApplication1\WpfApplication1\bin\Debug\CurrenceyExchange.exe.config
+C:\Users\rotem\Dropbox\c# project\WpfApplication1\WpfApplication1\obj\Debug\CurrenceyExchange.exe
+C:\Users\rotem\Dropbox\c# project\WpfApplication1\WpfApplication1\obj\Debug\CurrenceyExchange.pdb
